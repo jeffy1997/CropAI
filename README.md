@@ -9,8 +9,17 @@ Solution:
 An application that uses artificial intelligence to detect crop diseases, provide the appropriate disease diagnostic to farmers.
 Recommendation to farmers on the appropriate pesticide (organic preferred) to treat the diseases.
 Providing farmers, a simple platform with means of purchasing the pesticides and having it delivered to their crop fields.
-
 An end to end solution to combat decrease in global crop production and global economy amidst growing food production demand.
+
+Solution Methodology:
+Farmers download the application and register on the application integrated with local payment platform
+Using their phones farmers open the Oracle developed application and take pictures of leaves of the diseased crops from within the application
+Farmers then submit the image to the A.I application engine which runs in the background 
+The crop disease is then identified with state of the art machine learning algorithms using OCI-Data Science in the backend
+The application then intelligently recommends the appropriate pesticide for the plant and provides a link to the nearest agrovet for farmers to order the agrovet
+The application then logs the data for analysis to identify if there is a region-wise disease outbreak and alerts authorities .
+Thus, this end to end efficient solution when implemented, will increase food production capabilities, improve global economy and provide a hassle free experience to the farmer.
+
 
 Possible Future Work:
 Drones to survey the agricultural field and capture images of plants with diseases
