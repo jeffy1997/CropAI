@@ -11,6 +11,8 @@ Recommendation to farmers on the appropriate pesticide (organic preferred) to tr
 Providing farmers, a simple platform with means of purchasing the pesticides and having it delivered to their crop fields.
 An end to end solution to combat decrease in global crop production and global economy amidst growing food production demand.
 
+Data Source:https://data.mendeley.com/datasets/tywbtsjrjv
+
 Solution Methodology:
 Farmers download the application and register on the application integrated with local payment platform
 Using their phones farmers open the Oracle developed application and take pictures of leaves of the diseased crops from within the application
